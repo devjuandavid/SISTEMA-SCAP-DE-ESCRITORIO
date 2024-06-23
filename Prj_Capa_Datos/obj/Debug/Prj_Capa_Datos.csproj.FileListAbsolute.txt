@@ -1,0 +1,186 @@
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.dll
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.pdb
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.dll
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.pdb
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csprojAssemblyReference.cache
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CoreCompileInputs.cache
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CopyComplete
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.dll
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.pdb
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.dll
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.pdb
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.dll
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.pdb
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csprojAssemblyReference.cache
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CoreCompileInputs.cache
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CopyComplete
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.dll
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.pdb
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.pdb
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.pdb
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csprojAssemblyReference.cache
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CopyComplete
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.pdb
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.pdb
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.pdb
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csprojAssemblyReference.cache
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CopyComplete
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.pdb
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.pdb
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.pdb
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csprojAssemblyReference.cache
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CopyComplete
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.pdb
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.pdb
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.pdb
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csprojAssemblyReference.cache
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CoreCompileInputs.cache
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CopyComplete
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.pdb
+C:\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.dll
+C:\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.pdb
+C:\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.dll
+C:\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.pdb
+C:\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csprojResolveAssemblyReference.cache
+C:\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.dll
+C:\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.pdb
+C:\Sistema Control Huella Digital\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.dll
+C:\Sistema Control Huella Digital\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.pdb
+C:\Sistema Control Huella Digital\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.dll
+C:\Sistema Control Huella Digital\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.pdb
+C:\Sistema Control Huella Digital\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csprojResolveAssemblyReference.cache
+C:\Sistema Control Huella Digital\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.dll
+C:\Sistema Control Huella Digital\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.pdb
+C:\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.dll
+C:\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.pdb
+C:\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.dll
+C:\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.pdb
+C:\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.dll
+C:\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.pdb
+C:\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.AssemblyReference.cache
+C:\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CoreCompileInputs.cache
+C:\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CopyComplete
+C:\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.dll
+C:\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.pdb
+C:\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.dll
+C:\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.pdb
+C:\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.AssemblyReference.cache
+C:\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CoreCompileInputs.cache
+C:\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CopyComplete
+C:\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.dll
+C:\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.pdb
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.dll
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.pdb
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.dll
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.pdb
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.AssemblyReference.cache
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CoreCompileInputs.cache
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CopyComplete
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.dll
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.pdb
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.dll
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.pdb
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.dll
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.pdb
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.AssemblyReference.cache
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CoreCompileInputs.cache
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CopyComplete
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.dll
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.pdb
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.pdb
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.pdb
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.AssemblyReference.cache
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CoreCompileInputs.cache
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa.57228051.Up2Date
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.pdb
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.pdb
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.pdb
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.AssemblyReference.cache
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CoreCompileInputs.cache
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Datos\obj\Debug\Prj_Capa.57228051.Up2Date
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.pdb
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.pdb
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.pdb
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.AssemblyReference.cache
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CoreCompileInputs.cache
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Datos\obj\Debug\Prj_Capa.57228051.Up2Date
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.pdb
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.pdb
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.pdb
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.AssemblyReference.cache
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CoreCompileInputs.cache
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\Prj_Capa_Datos\obj\Debug\Prj_Capa.57228051.Up2Date
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.pdb
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\Prj_Capa_Datos.pdb
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\Prj_Capa_Entidad.pdb
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\obj\Debug\Prj_Capa.57228051.Up2Date
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\obj\Debug\Prj_Capa_Datos.pdb
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\CRVsPackageLib.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\VsWebSite.Interop.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\Microsoft.VisualStudio.Telemetry.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\System.Memory.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\Microsoft.VisualStudio.RpcContracts.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\System.Collections.Immutable.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\System.Buffers.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\EnvDTE.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\stdole.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\Microsoft.VisualStudio.GraphModel.xml
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\es\Microsoft.VisualStudio.Shell.15.0.resources.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Datos\bin\Debug\es\Microsoft.VisualStudio.GraphModel.resources.dll

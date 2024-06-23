@@ -1,0 +1,183 @@
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.dll
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.pdb
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.dll
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.dll
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.pdb
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.pdb
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csprojAssemblyReference.cache
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CoreCompileInputs.cache
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CopyComplete
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.dll
+G:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.pdb
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.dll
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.pdb
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.dll
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.dll
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.pdb
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.pdb
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csprojAssemblyReference.cache
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CoreCompileInputs.cache
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CopyComplete
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.dll
+H:\Sistema Micro Sisplani\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.pdb
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.pdb
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.pdb
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.pdb
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csprojAssemblyReference.cache
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CopyComplete
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.dll
+C:\Users\Erwin\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.pdb
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.pdb
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.pdb
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.pdb
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csprojAssemblyReference.cache
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CopyComplete
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.dll
+C:\Users\Erwin lap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.pdb
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.pdb
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.pdb
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.pdb
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csprojAssemblyReference.cache
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CopyComplete
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.dll
+C:\Users\ErwinLap\Desktop\Sisplani Csharp\Sln_MicroSisPlani\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.pdb
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.pdb
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.pdb
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.pdb
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csprojAssemblyReference.cache
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CoreCompileInputs.cache
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CopyComplete
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.dll
+D:\Archviso de Visual estudio\Ejercicios C# 2017\Curso de c#\Sln_MicroSisPlani\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.pdb
+C:\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.dll
+C:\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.pdb
+C:\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.dll
+C:\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.dll
+C:\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.pdb
+C:\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.pdb
+C:\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csprojResolveAssemblyReference.cache
+C:\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.dll
+C:\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.pdb
+C:\Sistema Control Huella Digital\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.dll
+C:\Sistema Control Huella Digital\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.pdb
+C:\Sistema Control Huella Digital\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.dll
+C:\Sistema Control Huella Digital\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.dll
+C:\Sistema Control Huella Digital\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.pdb
+C:\Sistema Control Huella Digital\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.pdb
+C:\Sistema Control Huella Digital\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csprojResolveAssemblyReference.cache
+C:\Sistema Control Huella Digital\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.dll
+C:\Sistema Control Huella Digital\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.pdb
+C:\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.dll
+C:\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.pdb
+C:\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.dll
+C:\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.dll
+C:\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.pdb
+C:\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.pdb
+C:\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.dll
+C:\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.pdb
+C:\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.AssemblyReference.cache
+C:\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CopyComplete
+C:\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.dll
+C:\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.pdb
+C:\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.dll
+C:\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.dll
+C:\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.pdb
+C:\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.pdb
+C:\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.AssemblyReference.cache
+C:\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CopyComplete
+C:\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.dll
+C:\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.pdb
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.dll
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.pdb
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.dll
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.dll
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.pdb
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.pdb
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.AssemblyReference.cache
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CoreCompileInputs.cache
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CopyComplete
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.dll
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo Actualizar\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.pdb
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.dll
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.pdb
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.dll
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.dll
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.pdb
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.pdb
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.AssemblyReference.cache
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CoreCompileInputs.cache
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CopyComplete
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.dll
+D:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.pdb
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.pdb
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.pdb
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.pdb
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.AssemblyReference.cache
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CoreCompileInputs.cache
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa.CD50486D.Up2Date
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo\Sln_MicroSisPlantilla\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.pdb
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.pdb
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.pdb
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.pdb
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.AssemblyReference.cache
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CoreCompileInputs.cache
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Negocio\obj\Debug\Prj_Capa.CD50486D.Up2Date
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.pdb
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.pdb
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.pdb
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.pdb
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.AssemblyReference.cache
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CoreCompileInputs.cache
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Negocio\obj\Debug\Prj_Capa.CD50486D.Up2Date
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.pdb
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.pdb
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.pdb
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.pdb
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.AssemblyReference.cache
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CoreCompileInputs.cache
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\Prj_Capa_Negocio\obj\Debug\Prj_Capa.CD50486D.Up2Date
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.pdb
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.pdb
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.pdb
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.pdb
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Negocio\obj\Debug\Prj_Capa.CD50486D.Up2Date
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.pdb

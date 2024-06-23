@@ -1,0 +1,387 @@
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\MicroSisPlani.exe.config
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\MicroSisPlani.exe
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\MicroSisPlani.pdb
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.Shared.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\DPFPDevNET.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\DPFPEngNET.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\DPFPGuiNET.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\DPFPShrNET.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\DPFPVerNET.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Datos.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Entidad.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Negocio.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.Web.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\DPFPCtlXWrapperNET.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\DPFPCtlXTypeLibNET.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\DPFPShrXTypeLibNET.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\stdole.dll
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Datos.pdb
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Entidad.pdb
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Negocio.pdb
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\SisCoAsHuellaDigital.csproj.AssemblyReference.cache
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Explo_Asistencia.resources
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Login.resources
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Marcar_Asistencia.resources
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Marcar_Asis_Manual.resources
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Principal.resources
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Reg_Justificacion.resources
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Informes.Frm_PrintAsis_deldia.resources
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Informes.Frm_Print_Asistencia.resources
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Informes.Frm_Solo_Fecha.resources
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Informes.Frm_Solo_Personal_Fecha.resources
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Filtro.resources
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Msm_Bueno.resources
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Sino.resources
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Sinox.resources
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Personal.Frm_Explorador_Personal.resources
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Personal.Frm_Registro_Personal.resources
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Personal.Frm_Regis_Huella.resources
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Properties.Resources.resources
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Advertencia.resources
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\SisCoAsHuellaDigital.csproj.GenerateResource.cache
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.exe.licenses
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\SisCoAsHuellaDigital.csproj.CoreCompileInputs.cache
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\SisCoAsH.D315FF81.Up2Date
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.exe
+F:\Sistema2023\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.pdb
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\SisCoAsHuellaDigital.csproj.AssemblyReference.cache
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Explo_Asistencia.resources
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Login.resources
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Marcar_Asistencia.resources
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Marcar_Asis_Manual.resources
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Principal.resources
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Reg_Justificacion.resources
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Informes.Frm_PrintAsis_deldia.resources
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Informes.Frm_Print_Asistencia.resources
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Informes.Frm_Solo_Fecha.resources
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Informes.Frm_Solo_Personal_Fecha.resources
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Filtro.resources
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Msm_Bueno.resources
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Sino.resources
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Sinox.resources
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Personal.Frm_Explorador_Personal.resources
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Personal.Frm_Registro_Personal.resources
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Personal.Frm_Regis_Huella.resources
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Properties.Resources.resources
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Advertencia.resources
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Usuario.Form_Usuario.resources
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\SisCoAsHuellaDigital.csproj.GenerateResource.cache
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.exe.licenses
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\SisCoAsHuellaDigital.csproj.CoreCompileInputs.cache
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\MicroSisPlani.exe.config
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\MicroSisPlani.exe
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\MicroSisPlani.pdb
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.Shared.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\DPFPDevNET.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\DPFPEngNET.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\DPFPGuiNET.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\DPFPShrNET.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\DPFPVerNET.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Datos.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Entidad.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Negocio.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.Web.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\DPFPCtlXWrapperNET.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\DPFPCtlXTypeLibNET.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\DPFPShrXTypeLibNET.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\stdole.dll
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Datos.pdb
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Entidad.pdb
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Negocio.pdb
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\SisCoAsH.D315FF81.Up2Date
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.exe
+D:\SistemaCompletos\Sistema Control Huella Digital Completo 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.pdb
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\obj\Debug\SisCoAsHuellaDigital.csproj.AssemblyReference.cache
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Explo_Asistencia.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Login.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Marcar_Asistencia.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Marcar_Asis_Manual.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Principal.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Reg_Justificacion.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Informes.Frm_PrintAsis_deldia.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Informes.Frm_Print_Asistencia.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Informes.Frm_Solo_Fecha.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Informes.Frm_Solo_Personal_Fecha.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Filtro.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Msm_Bueno.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Sino.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Sinox.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Personal.Frm_Explorador_Personal.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Personal.Frm_Registro_Personal.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Personal.Frm_Regis_Huella.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Properties.Resources.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Advertencia.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Usuario.Form_Usuario.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\obj\Debug\SisCoAsHuellaDigital.csproj.GenerateResource.cache
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.exe.licenses
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\obj\Debug\SisCoAsHuellaDigital.csproj.CoreCompileInputs.cache
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\MicroSisPlani.exe.config
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\MicroSisPlani.exe
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\MicroSisPlani.pdb
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.Shared.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\DPFPDevNET.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\DPFPEngNET.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\DPFPGuiNET.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\DPFPShrNET.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\DPFPVerNET.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Datos.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Entidad.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Negocio.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.Web.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\DPFPCtlXWrapperNET.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\DPFPCtlXTypeLibNET.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\DPFPShrXTypeLibNET.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\stdole.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Datos.pdb
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Entidad.pdb
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Negocio.pdb
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\obj\Debug\SisCoAsH.D315FF81.Up2Date
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.exe
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.pdb
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\MicroSisPlani.exe.config
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\MicroSisPlani.exe
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\MicroSisPlani.pdb
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.Shared.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\DPFPDevNET.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\DPFPEngNET.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\DPFPGuiNET.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\DPFPShrNET.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\DPFPVerNET.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Datos.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Entidad.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Negocio.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.Web.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\DPFPCtlXWrapperNET.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\DPFPCtlXTypeLibNET.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\DPFPShrXTypeLibNET.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\stdole.dll
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Datos.pdb
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Entidad.pdb
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Negocio.pdb
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\obj\Debug\SisCoAsHuellaDigital.csproj.AssemblyReference.cache
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Explo_Asistencia.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Login.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Marcar_Asistencia.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Marcar_Asis_Manual.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Principal.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Reg_Justificacion.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Informes.Frm_PrintAsis_deldia.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Informes.Frm_Print_Asistencia.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Informes.Frm_Solo_Fecha.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Informes.Frm_Solo_Personal_Fecha.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Filtro.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Msm_Bueno.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Sino.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Sinox.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Personal.Frm_Explorador_Personal.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Personal.Frm_Registro_Personal.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Personal.Frm_Regis_Huella.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Properties.Resources.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Advertencia.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Usuario.Form_Usuario.resources
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\obj\Debug\SisCoAsHuellaDigital.csproj.GenerateResource.cache
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.exe.licenses
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\obj\Debug\SisCoAsHuellaDigital.csproj.CoreCompileInputs.cache
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\obj\Debug\SisCoAsH.D315FF81.Up2Date
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.exe
+D:\SistemaCompletos\SistemaAsistenciaHuellaDigital 3 28 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.pdb
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\MicroSisPlani.exe.config
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\MicroSisPlani.exe.manifest
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\MicroSisPlani.application
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\MicroSisPlani.exe
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\MicroSisPlani.pdb
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\DPFPDevNET.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\DPFPEngNET.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\DPFPGuiNET.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\DPFPShrNET.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\DPFPVerNET.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Datos.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Entidad.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Negocio.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\DPFPCtlXTypeLibNET.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\DPFPShrXTypeLibNET.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\stdole.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Datos.pdb
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Entidad.pdb
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Negocio.pdb
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\obj\Debug\SisCoAsHuellaDigital.csproj.AssemblyReference.cache
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Explo_Asistencia.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Login.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Marcar_Asistencia.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Marcar_Asis_Manual.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Principal.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Reg_Justificacion.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Informes.Frm_PrintAsis_deldia.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Informes.Frm_Print_Asistencia.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Informes.Frm_Solo_Fecha.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Informes.Frm_Solo_Personal_Fecha.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Filtro.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Msm_Bueno.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Sino.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Sinox.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Personal.Frm_Explorador_Personal.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Personal.Frm_Registro_Personal.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Personal.Frm_Regis_Huella.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Properties.Resources.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Advertencia.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Usuario.Form_Usuario.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\obj\Debug\SisCoAsHuellaDigital.csproj.GenerateResource.cache
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.exe.licenses
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\obj\Debug\SisCoAsHuellaDigital.csproj.CoreCompileInputs.cache
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.exe.manifest
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.application
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\obj\Debug\SisCoAsH.D315FF81.Up2Date
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.exe
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.pdb
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Informes.Rpte_Asistencia_delMes.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\MicroSisPlani.exe.config
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\MicroSisPlani.exe.manifest
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\MicroSisPlani.application
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\MicroSisPlani.exe
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\MicroSisPlani.pdb
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\DPFPDevNET.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\DPFPEngNET.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\DPFPGuiNET.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\DPFPShrNET.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\DPFPVerNET.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Datos.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Entidad.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Negocio.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\DPFPCtlXTypeLibNET.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\DPFPShrXTypeLibNET.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\stdole.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Datos.pdb
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Entidad.pdb
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\bin\Debug\Prj_Capa_Negocio.pdb
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\obj\Debug\SisCoAsHuellaDigital.csproj.AssemblyReference.cache
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Explo_Asistencia.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Login.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Marcar_Asistencia.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Marcar_Asis_Manual.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Principal.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Frm_Reg_Justificacion.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Informes.Frm_PrintAsis_deldia.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Informes.Frm_Print_Asistencia.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Informes.Frm_Solo_Fecha.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Informes.Frm_Solo_Personal_Fecha.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Informes.Rpte_Asistencia_delMes.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Filtro.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Msm_Bueno.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Sino.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Sinox.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Personal.Frm_Explorador_Personal.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Personal.Frm_Registro_Personal.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Personal.Frm_Regis_Huella.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Properties.Resources.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Msm_Forms.Frm_Advertencia.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.Usuario.Form_Usuario.resources
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\obj\Debug\SisCoAsHuellaDigital.csproj.GenerateResource.cache
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.exe.licenses
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\obj\Debug\SisCoAsHuellaDigital.csproj.CoreCompileInputs.cache
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.exe.manifest
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.application
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\obj\Debug\SisCoAsH.D315FF81.Up2Date
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.exe
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital\SisCoAsHuellaDigital\obj\Debug\MicroSisPlani.pdb

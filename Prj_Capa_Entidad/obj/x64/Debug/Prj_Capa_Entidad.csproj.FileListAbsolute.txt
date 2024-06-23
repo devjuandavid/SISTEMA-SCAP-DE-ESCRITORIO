@@ -1,0 +1,6 @@
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Entidad\bin\x64\Debug\Prj_Capa_Entidad.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Entidad\bin\x64\Debug\Prj_Capa_Entidad.pdb
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Entidad\obj\x64\Debug\Prj_Capa_Entidad.csproj.AssemblyReference.cache
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Entidad\obj\x64\Debug\Prj_Capa_Entidad.csproj.CoreCompileInputs.cache
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Entidad\obj\x64\Debug\Prj_Capa_Entidad.dll
+C:\Users\juand\OneDrive\Documentos\ARCHIVOSU\NOVENO SEMESTRE\PRACTICA PROFESIONAL\SistemaAsistenciaHuellaDigital 28 3 2024\SistemaAsistenciaHuellaDigital 28 3 2024\Prj_Capa_Entidad\obj\x64\Debug\Prj_Capa_Entidad.pdb
